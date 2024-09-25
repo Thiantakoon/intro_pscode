@@ -2,3 +2,35 @@
 # Add your pseudocode to this file below this line: #
 # ------------------------------------------------- #
 
+Start
+If the player logs in
+   display on the screen (first attempt)
+   ask the player to choose a number from 1 to 10
+   the computer generates a number from 1 t0 10
+If the number the player chose matches the number the computer generated;
+then 
+   display on the screen (Congratulations)
+else
+    display the message(2 attempts left)
+    display on the screen (second attempt)
+If the player choses a number from 1 t0 10;
+then 
+    the computer generates another number from 1 t0 10
+If the number the player chose matches the number the computer genrated;
+then 
+   display on the screen (Congratulations)
+else
+    display the message (one attempt left)
+   Display on the screen (last attempt)
+If the player chooses a number from 1 to 10 
+then
+   the computer generates a new number from 1 to 10
+   if the player choses the number the computer generared;
+then
+   display the word (Congratulations)
+else
+   display (Game over!)
+   display ( come back soon adn try again)
+   END
+
+    
