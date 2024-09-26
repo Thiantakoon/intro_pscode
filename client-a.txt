@@ -2,3 +2,21 @@
 # Add your pseudocode to this file below this line: #
 # ------------------------------------------------- #
 
+Start
+    if the player logs in, give them 3 attempts
+        give the instruction to choose a random number between 1 to 10
+        the computer chooses a random number between 1 to 10 for each of the three attempts
+    If the player chooses the same number as the computer;
+        the player wins;
+    else 
+      give them a second chance
+    If the player chooses a number for the second time;
+    if the number chosen by the player matches that of the computer
+    the player wins; game over
+    else : give them a third and last attempt
+    If the player launches the last attempt and chooses a random number
+    the computer another random number beteen 1 to 10
+    if the number the conputer generated corresponds to the numer the player chose;
+    the player wins; game over
+    else: the player loses; game over
+End
