@@ -1,4 +1,30 @@
 # Client Task B #
 # Add your pseudocode to this file below this line: #
 # ------------------------------------------------- #
+indicates the direction on the map
+  N stands for North        
+  S stands for South
+  W stands for West
+  E stands for East
+  Indicates the locations 
+  Customer service==1
+  Restrooms ==2
+  Checkout area ==3
+  pharmacy ==4
+
+If the customer logs in 
+     Show all locations on the map
+If the customer clicks on one location
+     show the distance in feet
+        show the location icon in green
+If the customer moves towards the direction of the location
+then
+    reduce the number of feet left for each feet ahead 
+    add a feet to the distance for any feet the customer moves towards the opposite direction
+    if the customer arrives
+    display the message (arrived)
+if the customer goes away from the right direction
+    then 
+    display the message in red color (wrong direction)
+    display a green arrow to indicate the direction to take
 
