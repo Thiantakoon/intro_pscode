@@ -2,3 +2,12 @@
 # Add your pseudocode to this file below this line: #
 # ------------------------------------------------- #
 
+or the first package scanned count 2
+Add 2 for each package scanned
+stop at 50
+50 equals one case
+print the number two for each package 
+
+start a new case 
+repeat the process
+
